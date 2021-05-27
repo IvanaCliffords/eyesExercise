@@ -1,7 +1,7 @@
 # EyesExercise
 
 
-<a href ="https://ivanacliffords.github.io/eyesExercise/" target="_blank">See the exercise in the browser</a>
+<a href ="https://ivanacliffords.github.io/eyesExercise/">See the exercise in the browser</a>
 
 ***
 
@@ -31,7 +31,7 @@ In the future, I would like to add an element that resembles a mouth and can sim
 
 **MIT License**
 
-Copyright (c) 2020 John Williams
+Copyright (c) 2021 Ivana Cliffords
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
