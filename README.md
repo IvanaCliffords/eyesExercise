@@ -1,7 +1,7 @@
 # EyesExercise
 
 
-<a href ="https://ivanacliffords.github.io/eyesExercise/">See the exercise in the browser</a>
+<a href ="https://ivanacliffords.github.io/eyesExercise/" target="_blank">See the exercise in the browser</a>
 
 ***
 
